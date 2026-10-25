@@ -1,0 +1,7 @@
+# Badi raw CSV files GitHub pe nahi jaati (limit 100 MB)
+data/raw/*
+!data/raw/.gitkeep
+data/processed/live_log.csv
+__pycache__/
+.venv/
+*.pbix

@@ -1,0 +1,1201 @@
+City,Country,Month,NormalTemp,Lat,Lon
+Abidjan,Côte D'Ivoire,1,27.112,5.63,-3.23
+Abidjan,Côte D'Ivoire,2,28.518,5.63,-3.23
+Abidjan,Côte D'Ivoire,3,28.698,5.63,-3.23
+Abidjan,Côte D'Ivoire,4,28.179,5.63,-3.23
+Abidjan,Côte D'Ivoire,5,27.403,5.63,-3.23
+Abidjan,Côte D'Ivoire,6,26.005,5.63,-3.23
+Abidjan,Côte D'Ivoire,7,24.97,5.63,-3.23
+Abidjan,Côte D'Ivoire,8,24.679,5.63,-3.23
+Abidjan,Côte D'Ivoire,9,25.279,5.63,-3.23
+Abidjan,Côte D'Ivoire,10,26.129,5.63,-3.23
+Abidjan,Côte D'Ivoire,11,27.171,5.63,-3.23
+Abidjan,Côte D'Ivoire,12,26.987,5.63,-3.23
+Addis Abeba,Ethiopia,1,17.754,8.84,38.11
+Addis Abeba,Ethiopia,2,18.981,8.84,38.11
+Addis Abeba,Ethiopia,3,19.782,8.84,38.11
+Addis Abeba,Ethiopia,4,19.729,8.84,38.11
+Addis Abeba,Ethiopia,5,19.496,8.84,38.11
+Addis Abeba,Ethiopia,6,18.161,8.84,38.11
+Addis Abeba,Ethiopia,7,16.988,8.84,38.11
+Addis Abeba,Ethiopia,8,17.127,8.84,38.11
+Addis Abeba,Ethiopia,9,17.385,8.84,38.11
+Addis Abeba,Ethiopia,10,17.195,8.84,38.11
+Addis Abeba,Ethiopia,11,17.129,8.84,38.11
+Addis Abeba,Ethiopia,12,17.004,8.84,38.11
+Ahmadabad,India,1,19.957,23.31,72.52
+Ahmadabad,India,2,22.316,23.31,72.52
+Ahmadabad,India,3,27.134,23.31,72.52
+Ahmadabad,India,4,31.027,23.31,72.52
+Ahmadabad,India,5,33.516,23.31,72.52
+Ahmadabad,India,6,32.272,23.31,72.52
+Ahmadabad,India,7,29.111,23.31,72.52
+Ahmadabad,India,8,27.887,23.31,72.52
+Ahmadabad,India,9,28.535,23.31,72.52
+Ahmadabad,India,10,28.046,23.31,72.52
+Ahmadabad,India,11,24.86,23.31,72.52
+Ahmadabad,India,12,21.358,23.31,72.52
+Aleppo,Syria,1,6.032,36.17,37.79
+Aleppo,Syria,2,7.572,36.17,37.79
+Aleppo,Syria,3,11.603,36.17,37.79
+Aleppo,Syria,4,16.774,36.17,37.79
+Aleppo,Syria,5,22.209,36.17,37.79
+Aleppo,Syria,6,27.116,36.17,37.79
+Aleppo,Syria,7,30.023,36.17,37.79
+Aleppo,Syria,8,29.79,36.17,37.79
+Aleppo,Syria,9,26.09,36.17,37.79
+Aleppo,Syria,10,19.999,36.17,37.79
+Aleppo,Syria,11,12.346,36.17,37.79
+Aleppo,Syria,12,7.343,36.17,37.79
+Alexandria,Egypt,1,14.529,31.35,30.16
+Alexandria,Egypt,2,14.798,31.35,30.16
+Alexandria,Egypt,3,16.509,31.35,30.16
+Alexandria,Egypt,4,19.042,31.35,30.16
+Alexandria,Egypt,5,21.907,31.35,30.16
+Alexandria,Egypt,6,24.87,31.35,30.16
+Alexandria,Egypt,7,26.706,31.35,30.16
+Alexandria,Egypt,8,27.32,31.35,30.16
+Alexandria,Egypt,9,26.177,31.35,30.16
+Alexandria,Egypt,10,23.624,31.35,30.16
+Alexandria,Egypt,11,19.926,31.35,30.16
+Alexandria,Egypt,12,16.1,31.35,30.16
+Ankara,Turkey,1,-0.564,39.38,33.29
+Ankara,Turkey,2,0.791,39.38,33.29
+Ankara,Turkey,3,5.172,39.38,33.29
+Ankara,Turkey,4,10.348,39.38,33.29
+Ankara,Turkey,5,14.924,39.38,33.29
+Ankara,Turkey,6,19.12,39.38,33.29
+Ankara,Turkey,7,22.502,39.38,33.29
+Ankara,Turkey,8,22.494,39.38,33.29
+Ankara,Turkey,9,18.134,39.38,33.29
+Ankara,Turkey,10,12.192,39.38,33.29
+Ankara,Turkey,11,5.696,39.38,33.29
+Ankara,Turkey,12,1.362,39.38,33.29
+Baghdad,Iraq,1,10.203,32.95,45.0
+Baghdad,Iraq,2,12.351,32.95,45.0
+Baghdad,Iraq,3,16.765,32.95,45.0
+Baghdad,Iraq,4,22.802,32.95,45.0
+Baghdad,Iraq,5,29.119,32.95,45.0
+Baghdad,Iraq,6,33.684,32.95,45.0
+Baghdad,Iraq,7,35.911,32.95,45.0
+Baghdad,Iraq,8,35.335,32.95,45.0
+Baghdad,Iraq,9,31.562,32.95,45.0
+Baghdad,Iraq,10,25.367,32.95,45.0
+Baghdad,Iraq,11,17.159,32.95,45.0
+Baghdad,Iraq,12,11.732,32.95,45.0
+Bangalore,India,1,23.339,12.05,77.26
+Bangalore,India,2,25.307,12.05,77.26
+Bangalore,India,3,27.606,12.05,77.26
+Bangalore,India,4,28.534,12.05,77.26
+Bangalore,India,5,28.164,12.05,77.26
+Bangalore,India,6,25.927,12.05,77.26
+Bangalore,India,7,25.018,12.05,77.26
+Bangalore,India,8,24.93,12.05,77.26
+Bangalore,India,9,25.224,12.05,77.26
+Bangalore,India,10,24.823,12.05,77.26
+Bangalore,India,11,23.98,12.05,77.26
+Bangalore,India,12,22.935,12.05,77.26
+Bangkok,Thailand,1,25.612,13.66,99.91
+Bangkok,Thailand,2,27.517,13.66,99.91
+Bangkok,Thailand,3,29.061,13.66,99.91
+Bangkok,Thailand,4,30.064,13.66,99.91
+Bangkok,Thailand,5,29.45,13.66,99.91
+Bangkok,Thailand,6,28.674,13.66,99.91
+Bangkok,Thailand,7,28.176,13.66,99.91
+Bangkok,Thailand,8,28.065,13.66,99.91
+Bangkok,Thailand,9,27.742,13.66,99.91
+Bangkok,Thailand,10,27.16,13.66,99.91
+Bangkok,Thailand,11,26.475,13.66,99.91
+Bangkok,Thailand,12,24.926,13.66,99.91
+Belo Horizonte,Brazil,1,23.405,-20.09,-44.36
+Belo Horizonte,Brazil,2,23.935,-20.09,-44.36
+Belo Horizonte,Brazil,3,23.505,-20.09,-44.36
+Belo Horizonte,Brazil,4,22.324,-20.09,-44.36
+Belo Horizonte,Brazil,5,20.329,-20.09,-44.36
+Belo Horizonte,Brazil,6,18.934,-20.09,-44.36
+Belo Horizonte,Brazil,7,18.911,-20.09,-44.36
+Belo Horizonte,Brazil,8,20.367,-20.09,-44.36
+Belo Horizonte,Brazil,9,21.785,-20.09,-44.36
+Belo Horizonte,Brazil,10,22.731,-20.09,-44.36
+Belo Horizonte,Brazil,11,22.846,-20.09,-44.36
+Belo Horizonte,Brazil,12,22.911,-20.09,-44.36
+Berlin,Germany,1,0.727,52.24,13.14
+Berlin,Germany,2,1.402,52.24,13.14
+Berlin,Germany,3,4.997,52.24,13.14
+Berlin,Germany,4,9.455,52.24,13.14
+Berlin,Germany,5,14.448,52.24,13.14
+Berlin,Germany,6,17.112,52.24,13.14
+Berlin,Germany,7,19.45,52.24,13.14
+Berlin,Germany,8,19.009,52.24,13.14
+Berlin,Germany,9,14.894,52.24,13.14
+Berlin,Germany,10,9.944,52.24,13.14
+Berlin,Germany,11,4.944,52.24,13.14
+Berlin,Germany,12,1.457,52.24,13.14
+Bogotá,Colombia,1,20.558,4.02,-74.73
+Bogotá,Colombia,2,20.894,4.02,-74.73
+Bogotá,Colombia,3,20.872,4.02,-74.73
+Bogotá,Colombia,4,20.479,4.02,-74.73
+Bogotá,Colombia,5,20.588,4.02,-74.73
+Bogotá,Colombia,6,20.574,4.02,-74.73
+Bogotá,Colombia,7,20.784,4.02,-74.73
+Bogotá,Colombia,8,21.361,4.02,-74.73
+Bogotá,Colombia,9,21.139,4.02,-74.73
+Bogotá,Colombia,10,20.248,4.02,-74.73
+Bogotá,Colombia,11,20.006,4.02,-74.73
+Bogotá,Colombia,12,20.048,4.02,-74.73
+Bombay,India,1,24.786,18.48,72.68
+Bombay,India,2,24.739,18.48,72.68
+Bombay,India,3,26.251,18.48,72.68
+Bombay,India,4,27.797,18.48,72.68
+Bombay,India,5,29.527,18.48,72.68
+Bombay,India,6,28.673,18.48,72.68
+Bombay,India,7,27.506,18.48,72.68
+Bombay,India,8,27.139,18.48,72.68
+Bombay,India,9,27.521,18.48,72.68
+Bombay,India,10,28.45,18.48,72.68
+Bombay,India,11,28.112,18.48,72.68
+Bombay,India,12,26.347,18.48,72.68
+Brasília,Brazil,1,22.727,-15.27,-47.5
+Brasília,Brazil,2,23.013,-15.27,-47.5
+Brasília,Brazil,3,22.974,-15.27,-47.5
+Brasília,Brazil,4,22.737,-15.27,-47.5
+Brasília,Brazil,5,21.84,-15.27,-47.5
+Brasília,Brazil,6,20.591,-15.27,-47.5
+Brasília,Brazil,7,20.514,-15.27,-47.5
+Brasília,Brazil,8,22.066,-15.27,-47.5
+Brasília,Brazil,9,23.8,-15.27,-47.5
+Brasília,Brazil,10,23.802,-15.27,-47.5
+Brasília,Brazil,11,22.903,-15.27,-47.5
+Brasília,Brazil,12,22.565,-15.27,-47.5
+Cairo,Egypt,1,13.362,29.74,31.38
+Cairo,Egypt,2,14.564,29.74,31.38
+Cairo,Egypt,3,17.534,29.74,31.38
+Cairo,Egypt,4,21.594,29.74,31.38
+Cairo,Egypt,5,25.413,29.74,31.38
+Cairo,Egypt,6,28.083,29.74,31.38
+Cairo,Egypt,7,29.029,29.74,31.38
+Cairo,Egypt,8,28.744,29.74,31.38
+Cairo,Egypt,9,26.888,29.74,31.38
+Cairo,Egypt,10,23.653,29.74,31.38
+Cairo,Egypt,11,19.05,29.74,31.38
+Cairo,Egypt,12,14.796,29.74,31.38
+Calcutta,India,1,18.813,23.31,88.25
+Calcutta,India,2,22.417,23.31,88.25
+Calcutta,India,3,27.28,23.31,88.25
+Calcutta,India,4,30.248,23.31,88.25
+Calcutta,India,5,30.926,23.31,88.25
+Calcutta,India,6,30.281,23.31,88.25
+Calcutta,India,7,29.257,23.31,88.25
+Calcutta,India,8,29.346,23.31,88.25
+Calcutta,India,9,29.145,23.31,88.25
+Calcutta,India,10,27.527,23.31,88.25
+Calcutta,India,11,24.002,23.31,88.25
+Calcutta,India,12,19.916,23.31,88.25
+Cali,Colombia,1,22.465,4.02,-76.34
+Cali,Colombia,2,22.794,4.02,-76.34
+Cali,Colombia,3,22.811,4.02,-76.34
+Cali,Colombia,4,22.419,4.02,-76.34
+Cali,Colombia,5,22.432,4.02,-76.34
+Cali,Colombia,6,22.427,4.02,-76.34
+Cali,Colombia,7,22.641,4.02,-76.34
+Cali,Colombia,8,22.948,4.02,-76.34
+Cali,Colombia,9,22.622,4.02,-76.34
+Cali,Colombia,10,21.846,4.02,-76.34
+Cali,Colombia,11,21.807,4.02,-76.34
+Cali,Colombia,12,21.968,4.02,-76.34
+Cape Town,South Africa,1,20.388,-32.95,18.19
+Cape Town,South Africa,2,20.724,-32.95,18.19
+Cape Town,South Africa,3,19.641,-32.95,18.19
+Cape Town,South Africa,4,17.39,-32.95,18.19
+Cape Town,South Africa,5,15.202,-32.95,18.19
+Cape Town,South Africa,6,12.998,-32.95,18.19
+Cape Town,South Africa,7,12.544,-32.95,18.19
+Cape Town,South Africa,8,12.839,-32.95,18.19
+Cape Town,South Africa,9,14.455,-32.95,18.19
+Cape Town,South Africa,10,16.352,-32.95,18.19
+Cape Town,South Africa,11,18.065,-32.95,18.19
+Cape Town,South Africa,12,19.51,-32.95,18.19
+Casablanca,Morocco,1,9.938,32.95,-6.7
+Casablanca,Morocco,2,11.645,32.95,-6.7
+Casablanca,Morocco,3,14.367,32.95,-6.7
+Casablanca,Morocco,4,15.948,32.95,-6.7
+Casablanca,Morocco,5,19.317,32.95,-6.7
+Casablanca,Morocco,6,23.272,32.95,-6.7
+Casablanca,Morocco,7,26.41,32.95,-6.7
+Casablanca,Morocco,8,26.317,32.95,-6.7
+Casablanca,Morocco,9,23.515,32.95,-6.7
+Casablanca,Morocco,10,19.32,32.95,-6.7
+Casablanca,Morocco,11,14.668,32.95,-6.7
+Casablanca,Morocco,12,11.287,32.95,-6.7
+Changchun,China,1,-15.533,44.2,125.22
+Changchun,China,2,-10.285,44.2,125.22
+Changchun,China,3,-1.805,44.2,125.22
+Changchun,China,4,8.236,44.2,125.22
+Changchun,China,5,16.002,44.2,125.22
+Changchun,China,6,21.357,44.2,125.22
+Changchun,China,7,23.688,44.2,125.22
+Changchun,China,8,22.448,44.2,125.22
+Changchun,China,9,16.068,44.2,125.22
+Changchun,China,10,7.425,44.2,125.22
+Changchun,China,11,-3.43,44.2,125.22
+Changchun,China,12,-12.385,44.2,125.22
+Chengdu,China,1,0.638,31.35,103.66
+Chengdu,China,2,3.436,31.35,103.66
+Chengdu,China,3,7.363,31.35,103.66
+Chengdu,China,4,11.688,31.35,103.66
+Chengdu,China,5,15.585,31.35,103.66
+Chengdu,China,6,18.133,31.35,103.66
+Chengdu,China,7,19.941,31.35,103.66
+Chengdu,China,8,19.524,31.35,103.66
+Chengdu,China,9,16.126,31.35,103.66
+Chengdu,China,10,11.532,31.35,103.66
+Chengdu,China,11,6.756,31.35,103.66
+Chengdu,China,12,1.758,31.35,103.66
+Chicago,United States,1,-0.092,42.59,-87.27
+Chicago,United States,2,1.092,42.59,-87.27
+Chicago,United States,3,4.525,42.59,-87.27
+Chicago,United States,4,8.073,42.59,-87.27
+Chicago,United States,5,12.483,42.59,-87.27
+Chicago,United States,6,18.151,42.59,-87.27
+Chicago,United States,7,22.517,42.59,-87.27
+Chicago,United States,8,22.932,42.59,-87.27
+Chicago,United States,9,19.169,42.59,-87.27
+Chicago,United States,10,13.052,42.59,-87.27
+Chicago,United States,11,7.731,42.59,-87.27
+Chicago,United States,12,2.095,42.59,-87.27
+Chongqing,China,1,6.367,29.74,107.08
+Chongqing,China,2,8.559,29.74,107.08
+Chongqing,China,3,12.57,29.74,107.08
+Chongqing,China,4,17.453,29.74,107.08
+Chongqing,China,5,21.429,29.74,107.08
+Chongqing,China,6,24.165,29.74,107.08
+Chongqing,China,7,27.179,29.74,107.08
+Chongqing,China,8,27.25,29.74,107.08
+Chongqing,China,9,23.001,29.74,107.08
+Chongqing,China,10,17.412,29.74,107.08
+Chongqing,China,11,13.086,29.74,107.08
+Chongqing,China,12,7.971,29.74,107.08
+Dakar,Senegal,1,22.084,15.27,-17.5
+Dakar,Senegal,2,21.973,15.27,-17.5
+Dakar,Senegal,3,22.115,15.27,-17.5
+Dakar,Senegal,4,21.937,15.27,-17.5
+Dakar,Senegal,5,23.861,15.27,-17.5
+Dakar,Senegal,6,26.684,15.27,-17.5
+Dakar,Senegal,7,28.296,15.27,-17.5
+Dakar,Senegal,8,28.605,15.27,-17.5
+Dakar,Senegal,9,28.54,15.27,-17.5
+Dakar,Senegal,10,28.422,15.27,-17.5
+Dakar,Senegal,11,26.934,15.27,-17.5
+Dakar,Senegal,12,24.05,15.27,-17.5
+Dalian,China,1,-3.993,39.38,120.69
+Dalian,China,2,-1.567,39.38,120.69
+Dalian,China,3,3.642,39.38,120.69
+Dalian,China,4,10.792,39.38,120.69
+Dalian,China,5,16.807,39.38,120.69
+Dalian,China,6,20.858,39.38,120.69
+Dalian,China,7,23.755,39.38,120.69
+Dalian,China,8,24.146,39.38,120.69
+Dalian,China,9,20.252,39.38,120.69
+Dalian,China,10,13.722,39.38,120.69
+Dalian,China,11,5.688,39.38,120.69
+Dalian,China,12,-1.07,39.38,120.69
+Dar Es Salaam,Tanzania,1,28.148,-7.23,39.73
+Dar Es Salaam,Tanzania,2,28.375,-7.23,39.73
+Dar Es Salaam,Tanzania,3,28.142,-7.23,39.73
+Dar Es Salaam,Tanzania,4,27.093,-7.23,39.73
+Dar Es Salaam,Tanzania,5,26.175,-7.23,39.73
+Dar Es Salaam,Tanzania,6,25.042,-7.23,39.73
+Dar Es Salaam,Tanzania,7,24.264,-7.23,39.73
+Dar Es Salaam,Tanzania,8,24.108,-7.23,39.73
+Dar Es Salaam,Tanzania,9,24.455,-7.23,39.73
+Dar Es Salaam,Tanzania,10,25.178,-7.23,39.73
+Dar Es Salaam,Tanzania,11,26.614,-7.23,39.73
+Dar Es Salaam,Tanzania,12,27.571,-7.23,39.73
+Delhi,India,1,14.708,28.13,77.27
+Delhi,India,2,18.04,28.13,77.27
+Delhi,India,3,23.671,28.13,77.27
+Delhi,India,4,29.571,28.13,77.27
+Delhi,India,5,33.787,28.13,77.27
+Delhi,India,6,34.207,28.13,77.27
+Delhi,India,7,31.564,28.13,77.27
+Delhi,India,8,30.316,28.13,77.27
+Delhi,India,9,29.719,28.13,77.27
+Delhi,India,10,26.571,28.13,77.27
+Delhi,India,11,21.364,28.13,77.27
+Delhi,India,12,16.321,28.13,77.27
+Dhaka,Bangladesh,1,18.561,23.31,90.0
+Dhaka,Bangladesh,2,21.999,23.31,90.0
+Dhaka,Bangladesh,3,26.541,23.31,90.0
+Dhaka,Bangladesh,4,28.749,23.31,90.0
+Dhaka,Bangladesh,5,29.194,23.31,90.0
+Dhaka,Bangladesh,6,29.133,23.31,90.0
+Dhaka,Bangladesh,7,28.77,23.31,90.0
+Dhaka,Bangladesh,8,29.015,23.31,90.0
+Dhaka,Bangladesh,9,28.855,23.31,90.0
+Dhaka,Bangladesh,10,27.554,23.31,90.0
+Dhaka,Bangladesh,11,24.186,23.31,90.0
+Dhaka,Bangladesh,12,19.93,23.31,90.0
+Durban,South Africa,1,23.342,-29.74,31.38
+Durban,South Africa,2,23.847,-29.74,31.38
+Durban,South Africa,3,23.447,-29.74,31.38
+Durban,South Africa,4,21.844,-29.74,31.38
+Durban,South Africa,5,20.453,-29.74,31.38
+Durban,South Africa,6,18.612,-29.74,31.38
+Durban,South Africa,7,18.252,-29.74,31.38
+Durban,South Africa,8,18.974,-29.74,31.38
+Durban,South Africa,9,19.572,-29.74,31.38
+Durban,South Africa,10,19.917,-29.74,31.38
+Durban,South Africa,11,21.153,-29.74,31.38
+Durban,South Africa,12,22.382,-29.74,31.38
+Faisalabad,Pakistan,1,12.606,31.35,73.51
+Faisalabad,Pakistan,2,15.61,31.35,73.51
+Faisalabad,Pakistan,3,20.871,31.35,73.51
+Faisalabad,Pakistan,4,26.768,31.35,73.51
+Faisalabad,Pakistan,5,32.418,31.35,73.51
+Faisalabad,Pakistan,6,34.31,31.35,73.51
+Faisalabad,Pakistan,7,32.813,31.35,73.51
+Faisalabad,Pakistan,8,31.87,31.35,73.51
+Faisalabad,Pakistan,9,30.426,31.35,73.51
+Faisalabad,Pakistan,10,25.794,31.35,73.51
+Faisalabad,Pakistan,11,19.875,31.35,73.51
+Faisalabad,Pakistan,12,14.383,31.35,73.51
+Fortaleza,Brazil,1,27.678,-4.02,-40.98
+Fortaleza,Brazil,2,27.107,-4.02,-40.98
+Fortaleza,Brazil,3,26.711,-4.02,-40.98
+Fortaleza,Brazil,4,26.382,-4.02,-40.98
+Fortaleza,Brazil,5,26.663,-4.02,-40.98
+Fortaleza,Brazil,6,26.742,-4.02,-40.98
+Fortaleza,Brazil,7,27.06,-4.02,-40.98
+Fortaleza,Brazil,8,27.908,-4.02,-40.98
+Fortaleza,Brazil,9,28.669,-4.02,-40.98
+Fortaleza,Brazil,10,28.96,-4.02,-40.98
+Fortaleza,Brazil,11,29.275,-4.02,-40.98
+Fortaleza,Brazil,12,28.776,-4.02,-40.98
+Gizeh,Egypt,1,13.362,29.74,31.38
+Gizeh,Egypt,2,14.564,29.74,31.38
+Gizeh,Egypt,3,17.534,29.74,31.38
+Gizeh,Egypt,4,21.594,29.74,31.38
+Gizeh,Egypt,5,25.413,29.74,31.38
+Gizeh,Egypt,6,28.083,29.74,31.38
+Gizeh,Egypt,7,29.029,29.74,31.38
+Gizeh,Egypt,8,28.744,29.74,31.38
+Gizeh,Egypt,9,26.888,29.74,31.38
+Gizeh,Egypt,10,23.653,29.74,31.38
+Gizeh,Egypt,11,19.05,29.74,31.38
+Gizeh,Egypt,12,14.796,29.74,31.38
+Guangzhou,China,1,13.22,23.31,112.72
+Guangzhou,China,2,14.78,23.31,112.72
+Guangzhou,China,3,17.673,23.31,112.72
+Guangzhou,China,4,22.023,23.31,112.72
+Guangzhou,China,5,25.66,23.31,112.72
+Guangzhou,China,6,27.699,23.31,112.72
+Guangzhou,China,7,28.773,23.31,112.72
+Guangzhou,China,8,28.695,23.31,112.72
+Guangzhou,China,9,27.231,23.31,112.72
+Guangzhou,China,10,24.038,23.31,112.72
+Guangzhou,China,11,19.61,23.31,112.72
+Guangzhou,China,12,14.916,23.31,112.72
+Harare,Zimbabwe,1,22.547,-18.48,30.42
+Harare,Zimbabwe,2,22.498,-18.48,30.42
+Harare,Zimbabwe,3,22.377,-18.48,30.42
+Harare,Zimbabwe,4,20.679,-18.48,30.42
+Harare,Zimbabwe,5,18.63,-18.48,30.42
+Harare,Zimbabwe,6,16.443,-18.48,30.42
+Harare,Zimbabwe,7,15.945,-18.48,30.42
+Harare,Zimbabwe,8,18.442,-18.48,30.42
+Harare,Zimbabwe,9,22.016,-18.48,30.42
+Harare,Zimbabwe,10,23.664,-18.48,30.42
+Harare,Zimbabwe,11,23.882,-18.48,30.42
+Harare,Zimbabwe,12,22.638,-18.48,30.42
+Harbin,China,1,-18.093,45.81,125.77
+Harbin,China,2,-12.597,45.81,125.77
+Harbin,China,3,-3.172,45.81,125.77
+Harbin,China,4,7.432,45.81,125.77
+Harbin,China,5,15.48,45.81,125.77
+Harbin,China,6,21.171,45.81,125.77
+Harbin,China,7,23.517,45.81,125.77
+Harbin,China,8,21.968,45.81,125.77
+Harbin,China,9,15.249,45.81,125.77
+Harbin,China,10,6.141,45.81,125.77
+Harbin,China,11,-5.405,45.81,125.77
+Harbin,China,12,-14.967,45.81,125.77
+Ho Chi Minh City,Vietnam,1,26.176,10.45,107.18
+Ho Chi Minh City,Vietnam,2,26.752,10.45,107.18
+Ho Chi Minh City,Vietnam,3,27.907,10.45,107.18
+Ho Chi Minh City,Vietnam,4,28.896,10.45,107.18
+Ho Chi Minh City,Vietnam,5,29.129,10.45,107.18
+Ho Chi Minh City,Vietnam,6,28.658,10.45,107.18
+Ho Chi Minh City,Vietnam,7,28.311,10.45,107.18
+Ho Chi Minh City,Vietnam,8,28.296,10.45,107.18
+Ho Chi Minh City,Vietnam,9,27.941,10.45,107.18
+Ho Chi Minh City,Vietnam,10,27.422,10.45,107.18
+Ho Chi Minh City,Vietnam,11,27.353,10.45,107.18
+Ho Chi Minh City,Vietnam,12,26.425,10.45,107.18
+Hyderabad,India,1,23.293,16.87,78.7
+Hyderabad,India,2,25.998,16.87,78.7
+Hyderabad,India,3,29.341,16.87,78.7
+Hyderabad,India,4,31.885,16.87,78.7
+Hyderabad,India,5,33.332,16.87,78.7
+Hyderabad,India,6,30.25,16.87,78.7
+Hyderabad,India,7,27.734,16.87,78.7
+Hyderabad,India,8,27.024,16.87,78.7
+Hyderabad,India,9,27.312,16.87,78.7
+Hyderabad,India,10,26.307,16.87,78.7
+Hyderabad,India,11,24.296,16.87,78.7
+Hyderabad,India,12,22.594,16.87,78.7
+Ibadan,Nigeria,1,27.341,7.23,4.05
+Ibadan,Nigeria,2,28.938,7.23,4.05
+Ibadan,Nigeria,3,29.171,7.23,4.05
+Ibadan,Nigeria,4,28.262,7.23,4.05
+Ibadan,Nigeria,5,27.339,7.23,4.05
+Ibadan,Nigeria,6,26.055,7.23,4.05
+Ibadan,Nigeria,7,25.001,7.23,4.05
+Ibadan,Nigeria,8,24.738,7.23,4.05
+Ibadan,Nigeria,9,25.37,7.23,4.05
+Ibadan,Nigeria,10,26.131,7.23,4.05
+Ibadan,Nigeria,11,27.287,7.23,4.05
+Ibadan,Nigeria,12,27.143,7.23,4.05
+Istanbul,Turkey,1,5.549,40.99,29.82
+Istanbul,Turkey,2,5.678,40.99,29.82
+Istanbul,Turkey,3,7.833,40.99,29.82
+Istanbul,Turkey,4,11.905,40.99,29.82
+Istanbul,Turkey,5,16.678,40.99,29.82
+Istanbul,Turkey,6,21.085,40.99,29.82
+Istanbul,Turkey,7,23.496,40.99,29.82
+Istanbul,Turkey,8,23.616,40.99,29.82
+Istanbul,Turkey,9,20.028,40.99,29.82
+Istanbul,Turkey,10,15.526,40.99,29.82
+Istanbul,Turkey,11,10.796,40.99,29.82
+Istanbul,Turkey,12,7.398,40.99,29.82
+Izmir,Turkey,1,10.597,37.78,26.44
+Izmir,Turkey,2,10.457,37.78,26.44
+Izmir,Turkey,3,12.271,37.78,26.44
+Izmir,Turkey,4,15.371,37.78,26.44
+Izmir,Turkey,5,19.588,37.78,26.44
+Izmir,Turkey,6,23.978,37.78,26.44
+Izmir,Turkey,7,26.318,37.78,26.44
+Izmir,Turkey,8,26.294,37.78,26.44
+Izmir,Turkey,9,23.142,37.78,26.44
+Izmir,Turkey,10,19.104,37.78,26.44
+Izmir,Turkey,11,15.01,37.78,26.44
+Izmir,Turkey,12,12.092,37.78,26.44
+Jaipur,India,1,16.025,26.52,75.22
+Jaipur,India,2,19.055,26.52,75.22
+Jaipur,India,3,24.643,26.52,75.22
+Jaipur,India,4,30.165,26.52,75.22
+Jaipur,India,5,34.314,26.52,75.22
+Jaipur,India,6,33.933,26.52,75.22
+Jaipur,India,7,30.498,26.52,75.22
+Jaipur,India,8,28.908,26.52,75.22
+Jaipur,India,9,28.981,26.52,75.22
+Jaipur,India,10,26.721,26.52,75.22
+Jaipur,India,11,21.957,26.52,75.22
+Jaipur,India,12,17.472,26.52,75.22
+Jakarta,Indonesia,1,26.601,-5.63,106.55
+Jakarta,Indonesia,2,26.923,-5.63,106.55
+Jakarta,Indonesia,3,27.453,-5.63,106.55
+Jakarta,Indonesia,4,27.649,-5.63,106.55
+Jakarta,Indonesia,5,27.915,-5.63,106.55
+Jakarta,Indonesia,6,27.496,-5.63,106.55
+Jakarta,Indonesia,7,26.984,-5.63,106.55
+Jakarta,Indonesia,8,26.867,-5.63,106.55
+Jakarta,Indonesia,9,26.972,-5.63,106.55
+Jakarta,Indonesia,10,26.924,-5.63,106.55
+Jakarta,Indonesia,11,26.99,-5.63,106.55
+Jakarta,Indonesia,12,26.718,-5.63,106.55
+Jiddah,Saudi Arabia,1,23.373,21.7,38.94
+Jiddah,Saudi Arabia,2,23.233,21.7,38.94
+Jiddah,Saudi Arabia,3,24.765,21.7,38.94
+Jiddah,Saudi Arabia,4,27.112,21.7,38.94
+Jiddah,Saudi Arabia,5,29.622,21.7,38.94
+Jiddah,Saudi Arabia,6,31.12,21.7,38.94
+Jiddah,Saudi Arabia,7,32.406,21.7,38.94
+Jiddah,Saudi Arabia,8,32.605,21.7,38.94
+Jiddah,Saudi Arabia,9,31.684,21.7,38.94
+Jiddah,Saudi Arabia,10,29.85,21.7,38.94
+Jiddah,Saudi Arabia,11,27.82,21.7,38.94
+Jiddah,Saudi Arabia,12,25.343,21.7,38.94
+Jinan,China,1,-1.049,36.17,117.35
+Jinan,China,2,2.058,36.17,117.35
+Jinan,China,3,7.669,36.17,117.35
+Jinan,China,4,14.931,36.17,117.35
+Jinan,China,5,20.773,36.17,117.35
+Jinan,China,6,25.01,36.17,117.35
+Jinan,China,7,26.652,36.17,117.35
+Jinan,China,8,25.477,36.17,117.35
+Jinan,China,9,21.087,36.17,117.35
+Jinan,China,10,15.095,36.17,117.35
+Jinan,China,11,7.552,36.17,117.35
+Jinan,China,12,0.968,36.17,117.35
+Kabul,Afghanistan,1,2.628,34.56,70.05
+Kabul,Afghanistan,2,4.601,34.56,70.05
+Kabul,Afghanistan,3,9.659,34.56,70.05
+Kabul,Afghanistan,4,15.197,34.56,70.05
+Kabul,Afghanistan,5,21.039,34.56,70.05
+Kabul,Afghanistan,6,25.411,34.56,70.05
+Kabul,Afghanistan,7,26.443,34.56,70.05
+Kabul,Afghanistan,8,25.152,34.56,70.05
+Kabul,Afghanistan,9,21.753,34.56,70.05
+Kabul,Afghanistan,10,15.78,34.56,70.05
+Kabul,Afghanistan,11,9.927,34.56,70.05
+Kabul,Afghanistan,12,4.544,34.56,70.05
+Kano,Nigeria,1,21.407,12.05,8.22
+Kano,Nigeria,2,24.649,12.05,8.22
+Kano,Nigeria,3,28.902,12.05,8.22
+Kano,Nigeria,4,31.624,12.05,8.22
+Kano,Nigeria,5,31.264,12.05,8.22
+Kano,Nigeria,6,28.96,12.05,8.22
+Kano,Nigeria,7,26.545,12.05,8.22
+Kano,Nigeria,8,25.878,12.05,8.22
+Kano,Nigeria,9,26.807,12.05,8.22
+Kano,Nigeria,10,27.239,12.05,8.22
+Kano,Nigeria,11,25.025,12.05,8.22
+Kano,Nigeria,12,22.092,12.05,8.22
+Kanpur,India,1,14.767,26.52,80.6
+Kanpur,India,2,18.425,26.52,80.6
+Kanpur,India,3,24.108,26.52,80.6
+Kanpur,India,4,29.768,26.52,80.6
+Kanpur,India,5,33.141,26.52,80.6
+Kanpur,India,6,32.999,26.52,80.6
+Kanpur,India,7,30.219,26.52,80.6
+Kanpur,India,8,29.437,26.52,80.6
+Kanpur,India,9,28.734,26.52,80.6
+Kanpur,India,10,25.719,26.52,80.6
+Kanpur,India,11,20.759,26.52,80.6
+Kanpur,India,12,16.173,26.52,80.6
+Karachi,Pakistan,1,18.431,24.92,67.39
+Karachi,Pakistan,2,20.997,24.92,67.39
+Karachi,Pakistan,3,25.566,24.92,67.39
+Karachi,Pakistan,4,29.112,24.92,67.39
+Karachi,Pakistan,5,31.775,24.92,67.39
+Karachi,Pakistan,6,32.443,24.92,67.39
+Karachi,Pakistan,7,31.143,24.92,67.39
+Karachi,Pakistan,8,29.749,24.92,67.39
+Karachi,Pakistan,9,29.357,24.92,67.39
+Karachi,Pakistan,10,28.132,24.92,67.39
+Karachi,Pakistan,11,24.456,24.92,67.39
+Karachi,Pakistan,12,19.954,24.92,67.39
+Kiev,Ukraine,1,-4.219,50.63,31.69
+Kiev,Ukraine,2,-3.961,50.63,31.69
+Kiev,Ukraine,3,1.184,50.63,31.69
+Kiev,Ukraine,4,8.998,50.63,31.69
+Kiev,Ukraine,5,15.531,50.63,31.69
+Kiev,Ukraine,6,18.69,50.63,31.69
+Kiev,Ukraine,7,20.62,50.63,31.69
+Kiev,Ukraine,8,19.526,50.63,31.69
+Kiev,Ukraine,9,14.07,50.63,31.69
+Kiev,Ukraine,10,7.828,50.63,31.69
+Kiev,Ukraine,11,1.558,50.63,31.69
+Kiev,Ukraine,12,-2.978,50.63,31.69
+Kinshasa,Congo (Democratic Republic Of The),1,24.674,-4.02,15.27
+Kinshasa,Congo (Democratic Republic Of The),2,25.156,-4.02,15.27
+Kinshasa,Congo (Democratic Republic Of The),3,25.531,-4.02,15.27
+Kinshasa,Congo (Democratic Republic Of The),4,25.413,-4.02,15.27
+Kinshasa,Congo (Democratic Republic Of The),5,25.047,-4.02,15.27
+Kinshasa,Congo (Democratic Republic Of The),6,23.157,-4.02,15.27
+Kinshasa,Congo (Democratic Republic Of The),7,22.224,-4.02,15.27
+Kinshasa,Congo (Democratic Republic Of The),8,23.16,-4.02,15.27
+Kinshasa,Congo (Democratic Republic Of The),9,24.338,-4.02,15.27
+Kinshasa,Congo (Democratic Republic Of The),10,24.516,-4.02,15.27
+Kinshasa,Congo (Democratic Republic Of The),11,24.554,-4.02,15.27
+Kinshasa,Congo (Democratic Republic Of The),12,24.392,-4.02,15.27
+Lagos,Nigeria,1,26.701,5.63,3.23
+Lagos,Nigeria,2,27.566,5.63,3.23
+Lagos,Nigeria,3,27.866,5.63,3.23
+Lagos,Nigeria,4,27.95,5.63,3.23
+Lagos,Nigeria,5,28.079,5.63,3.23
+Lagos,Nigeria,6,27.265,5.63,3.23
+Lagos,Nigeria,7,26.418,5.63,3.23
+Lagos,Nigeria,8,26.029,5.63,3.23
+Lagos,Nigeria,9,26.251,5.63,3.23
+Lagos,Nigeria,10,26.492,5.63,3.23
+Lagos,Nigeria,11,27.467,5.63,3.23
+Lagos,Nigeria,12,27.151,5.63,3.23
+Lahore,Pakistan,1,12.606,31.35,73.51
+Lahore,Pakistan,2,15.61,31.35,73.51
+Lahore,Pakistan,3,20.871,31.35,73.51
+Lahore,Pakistan,4,26.768,31.35,73.51
+Lahore,Pakistan,5,32.418,31.35,73.51
+Lahore,Pakistan,6,34.31,31.35,73.51
+Lahore,Pakistan,7,32.813,31.35,73.51
+Lahore,Pakistan,8,31.87,31.35,73.51
+Lahore,Pakistan,9,30.426,31.35,73.51
+Lahore,Pakistan,10,25.794,31.35,73.51
+Lahore,Pakistan,11,19.875,31.35,73.51
+Lahore,Pakistan,12,14.383,31.35,73.51
+Lakhnau,India,1,14.767,26.52,80.6
+Lakhnau,India,2,18.425,26.52,80.6
+Lakhnau,India,3,24.108,26.52,80.6
+Lakhnau,India,4,29.768,26.52,80.6
+Lakhnau,India,5,33.141,26.52,80.6
+Lakhnau,India,6,32.999,26.52,80.6
+Lakhnau,India,7,30.219,26.52,80.6
+Lakhnau,India,8,29.437,26.52,80.6
+Lakhnau,India,9,28.734,26.52,80.6
+Lakhnau,India,10,25.719,26.52,80.6
+Lakhnau,India,11,20.759,26.52,80.6
+Lakhnau,India,12,16.173,26.52,80.6
+Lima,Peru,1,20.176,-12.05,-77.26
+Lima,Peru,2,21.156,-12.05,-77.26
+Lima,Peru,3,20.904,-12.05,-77.26
+Lima,Peru,4,18.953,-12.05,-77.26
+Lima,Peru,5,16.96,-12.05,-77.26
+Lima,Peru,6,15.42,-12.05,-77.26
+Lima,Peru,7,14.667,-12.05,-77.26
+Lima,Peru,8,14.348,-12.05,-77.26
+Lima,Peru,9,14.437,-12.05,-77.26
+Lima,Peru,10,14.968,-12.05,-77.26
+Lima,Peru,11,16.475,-12.05,-77.26
+Lima,Peru,12,18.373,-12.05,-77.26
+London,United Kingdom,1,4.197,52.24,-0.0
+London,United Kingdom,2,4.303,52.24,-0.0
+London,United Kingdom,3,6.555,52.24,-0.0
+London,United Kingdom,4,8.685,52.24,-0.0
+London,United Kingdom,5,12.161,52.24,-0.0
+London,United Kingdom,6,15.101,52.24,-0.0
+London,United Kingdom,7,17.43,52.24,-0.0
+London,United Kingdom,8,17.22,52.24,-0.0
+London,United Kingdom,9,14.491,52.24,-0.0
+London,United Kingdom,10,10.71,52.24,-0.0
+London,United Kingdom,11,7.085,52.24,-0.0
+London,United Kingdom,12,4.461,52.24,-0.0
+Los Angeles,United States,1,9.76,34.56,-118.7
+Los Angeles,United States,2,10.56,34.56,-118.7
+Los Angeles,United States,3,12.511,34.56,-118.7
+Los Angeles,United States,4,14.427,34.56,-118.7
+Los Angeles,United States,5,17.735,34.56,-118.7
+Los Angeles,United States,6,21.085,34.56,-118.7
+Los Angeles,United States,7,24.457,34.56,-118.7
+Los Angeles,United States,8,24.621,34.56,-118.7
+Los Angeles,United States,9,22.314,34.56,-118.7
+Los Angeles,United States,10,17.611,34.56,-118.7
+Los Angeles,United States,11,12.959,34.56,-118.7
+Los Angeles,United States,12,9.358,34.56,-118.7
+Luanda,Angola,1,25.23,-8.84,13.78
+Luanda,Angola,2,25.985,-8.84,13.78
+Luanda,Angola,3,26.338,-8.84,13.78
+Luanda,Angola,4,25.98,-8.84,13.78
+Luanda,Angola,5,24.944,-8.84,13.78
+Luanda,Angola,6,22.624,-8.84,13.78
+Luanda,Angola,7,20.913,-8.84,13.78
+Luanda,Angola,8,21.191,-8.84,13.78
+Luanda,Angola,9,22.879,-8.84,13.78
+Luanda,Angola,10,24.255,-8.84,13.78
+Luanda,Angola,11,25.277,-8.84,13.78
+Luanda,Angola,12,25.214,-8.84,13.78
+Madras,India,1,24.928,13.66,80.09
+Madras,India,2,26.496,13.66,80.09
+Madras,India,3,28.688,13.66,80.09
+Madras,India,4,30.958,13.66,80.09
+Madras,India,5,33.158,13.66,80.09
+Madras,India,6,32.608,13.66,80.09
+Madras,India,7,31.135,13.66,80.09
+Madras,India,8,30.527,13.66,80.09
+Madras,India,9,30.065,13.66,80.09
+Madras,India,10,28.424,13.66,80.09
+Madras,India,11,26.419,13.66,80.09
+Madras,India,12,24.876,13.66,80.09
+Madrid,Spain,1,3.858,40.99,-4.26
+Madrid,Spain,2,5.188,40.99,-4.26
+Madrid,Spain,3,8.197,40.99,-4.26
+Madrid,Spain,4,9.805,40.99,-4.26
+Madrid,Spain,5,13.87,40.99,-4.26
+Madrid,Spain,6,18.973,40.99,-4.26
+Madrid,Spain,7,22.263,40.99,-4.26
+Madrid,Spain,8,22.045,40.99,-4.26
+Madrid,Spain,9,18.104,40.99,-4.26
+Madrid,Spain,10,12.573,40.99,-4.26
+Madrid,Spain,11,7.577,40.99,-4.26
+Madrid,Spain,12,4.635,40.99,-4.26
+Manila,Philippines,1,25.295,15.27,120.83
+Manila,Philippines,2,26.315,15.27,120.83
+Manila,Philippines,3,27.814,15.27,120.83
+Manila,Philippines,4,29.048,15.27,120.83
+Manila,Philippines,5,29.0,15.27,120.83
+Manila,Philippines,6,27.911,15.27,120.83
+Manila,Philippines,7,26.998,15.27,120.83
+Manila,Philippines,8,26.774,15.27,120.83
+Manila,Philippines,9,26.882,15.27,120.83
+Manila,Philippines,10,26.65,15.27,120.83
+Manila,Philippines,11,26.418,15.27,120.83
+Manila,Philippines,12,25.386,15.27,120.83
+Mashhad,Iran,1,1.227,36.17,59.67
+Mashhad,Iran,2,3.11,36.17,59.67
+Mashhad,Iran,3,7.871,36.17,59.67
+Mashhad,Iran,4,13.998,36.17,59.67
+Mashhad,Iran,5,19.174,36.17,59.67
+Mashhad,Iran,6,23.918,36.17,59.67
+Mashhad,Iran,7,25.865,36.17,59.67
+Mashhad,Iran,8,24.313,36.17,59.67
+Mashhad,Iran,9,19.597,36.17,59.67
+Mashhad,Iran,10,13.735,36.17,59.67
+Mashhad,Iran,11,8.299,36.17,59.67
+Mashhad,Iran,12,3.168,36.17,59.67
+Melbourne,Australia,1,19.442,-37.78,144.41
+Melbourne,Australia,2,19.736,-37.78,144.41
+Melbourne,Australia,3,17.707,-37.78,144.41
+Melbourne,Australia,4,14.321,-37.78,144.41
+Melbourne,Australia,5,11.607,-37.78,144.41
+Melbourne,Australia,6,9.18,-37.78,144.41
+Melbourne,Australia,7,8.518,-37.78,144.41
+Melbourne,Australia,8,9.513,-37.78,144.41
+Melbourne,Australia,9,11.177,-37.78,144.41
+Melbourne,Australia,10,13.012,-37.78,144.41
+Melbourne,Australia,11,15.716,-37.78,144.41
+Melbourne,Australia,12,17.412,-37.78,144.41
+Mexico,Mexico,1,12.624,20.09,-98.96
+Mexico,Mexico,2,14.217,20.09,-98.96
+Mexico,Mexico,3,16.317,20.09,-98.96
+Mexico,Mexico,4,18.066,20.09,-98.96
+Mexico,Mexico,5,19.086,20.09,-98.96
+Mexico,Mexico,6,18.635,20.09,-98.96
+Mexico,Mexico,7,17.638,20.09,-98.96
+Mexico,Mexico,8,17.71,20.09,-98.96
+Mexico,Mexico,9,17.131,20.09,-98.96
+Mexico,Mexico,10,15.809,20.09,-98.96
+Mexico,Mexico,11,14.364,20.09,-98.96
+Mexico,Mexico,12,12.92,20.09,-98.96
+Mogadishu,Somalia,1,27.137,2.41,45.8
+Mogadishu,Somalia,2,27.817,2.41,45.8
+Mogadishu,Somalia,3,29.276,2.41,45.8
+Mogadishu,Somalia,4,29.238,2.41,45.8
+Mogadishu,Somalia,5,28.724,2.41,45.8
+Mogadishu,Somalia,6,27.382,2.41,45.8
+Mogadishu,Somalia,7,26.398,2.41,45.8
+Mogadishu,Somalia,8,26.426,2.41,45.8
+Mogadishu,Somalia,9,27.134,2.41,45.8
+Mogadishu,Somalia,10,27.299,2.41,45.8
+Mogadishu,Somalia,11,27.81,2.41,45.8
+Mogadishu,Somalia,12,27.438,2.41,45.8
+Montreal,Canada,1,-11.204,45.81,-72.69
+Montreal,Canada,2,-9.072,45.81,-72.69
+Montreal,Canada,3,-3.039,45.81,-72.69
+Montreal,Canada,4,5.134,45.81,-72.69
+Montreal,Canada,5,12.535,45.81,-72.69
+Montreal,Canada,6,17.567,45.81,-72.69
+Montreal,Canada,7,20.061,45.81,-72.69
+Montreal,Canada,8,18.935,45.81,-72.69
+Montreal,Canada,9,14.293,45.81,-72.69
+Montreal,Canada,10,7.329,45.81,-72.69
+Montreal,Canada,11,1.02,45.81,-72.69
+Montreal,Canada,12,-6.741,45.81,-72.69
+Moscow,Russia,1,-7.461,55.45,36.85
+Moscow,Russia,2,-7.785,55.45,36.85
+Moscow,Russia,3,-2.062,55.45,36.85
+Moscow,Russia,4,6.01,55.45,36.85
+Moscow,Russia,5,12.864,55.45,36.85
+Moscow,Russia,6,16.541,55.45,36.85
+Moscow,Russia,7,18.778,55.45,36.85
+Moscow,Russia,8,16.771,55.45,36.85
+Moscow,Russia,9,11.154,55.45,36.85
+Moscow,Russia,10,5.141,55.45,36.85
+Moscow,Russia,11,-1.574,55.45,36.85
+Moscow,Russia,12,-6.052,55.45,36.85
+Nagoya,Japan,1,4.53,34.56,136.22
+Nagoya,Japan,2,5.328,34.56,136.22
+Nagoya,Japan,3,8.517,34.56,136.22
+Nagoya,Japan,4,13.593,34.56,136.22
+Nagoya,Japan,5,18.172,34.56,136.22
+Nagoya,Japan,6,21.991,34.56,136.22
+Nagoya,Japan,7,25.897,34.56,136.22
+Nagoya,Japan,8,27.095,34.56,136.22
+Nagoya,Japan,9,23.459,34.56,136.22
+Nagoya,Japan,10,17.411,34.56,136.22
+Nagoya,Japan,11,12.057,34.56,136.22
+Nagoya,Japan,12,6.871,34.56,136.22
+Nagpur,India,1,19.609,21.7,78.75
+Nagpur,India,2,22.316,21.7,78.75
+Nagpur,India,3,26.92,21.7,78.75
+Nagpur,India,4,31.473,21.7,78.75
+Nagpur,India,5,34.556,21.7,78.75
+Nagpur,India,6,31.471,21.7,78.75
+Nagpur,India,7,27.194,21.7,78.75
+Nagpur,India,8,26.357,21.7,78.75
+Nagpur,India,9,27.038,21.7,78.75
+Nagpur,India,10,25.66,21.7,78.75
+Nagpur,India,11,22.391,21.7,78.75
+Nagpur,India,12,19.632,21.7,78.75
+Nairobi,Kenya,1,17.255,-0.8,36.16
+Nairobi,Kenya,2,17.953,-0.8,36.16
+Nairobi,Kenya,3,18.178,-0.8,36.16
+Nairobi,Kenya,4,17.201,-0.8,36.16
+Nairobi,Kenya,5,16.639,-0.8,36.16
+Nairobi,Kenya,6,15.647,-0.8,36.16
+Nairobi,Kenya,7,14.946,-0.8,36.16
+Nairobi,Kenya,8,15.363,-0.8,36.16
+Nairobi,Kenya,9,16.229,-0.8,36.16
+Nairobi,Kenya,10,16.612,-0.8,36.16
+Nairobi,Kenya,11,16.538,-0.8,36.16
+Nairobi,Kenya,12,16.705,-0.8,36.16
+Nanjing,China,1,3.15,31.35,118.74
+Nanjing,China,2,5.398,31.35,118.74
+Nanjing,China,3,9.8,31.35,118.74
+Nanjing,China,4,15.898,31.35,118.74
+Nanjing,China,5,21.396,31.35,118.74
+Nanjing,China,6,24.914,31.35,118.74
+Nanjing,China,7,28.479,31.35,118.74
+Nanjing,China,8,27.783,31.35,118.74
+Nanjing,China,9,23.339,31.35,118.74
+Nanjing,China,10,17.661,31.35,118.74
+Nanjing,China,11,11.568,31.35,118.74
+Nanjing,China,12,5.416,31.35,118.74
+New Delhi,India,1,14.708,28.13,77.27
+New Delhi,India,2,18.04,28.13,77.27
+New Delhi,India,3,23.671,28.13,77.27
+New Delhi,India,4,29.571,28.13,77.27
+New Delhi,India,5,33.787,28.13,77.27
+New Delhi,India,6,34.207,28.13,77.27
+New Delhi,India,7,31.564,28.13,77.27
+New Delhi,India,8,30.316,28.13,77.27
+New Delhi,India,9,29.719,28.13,77.27
+New Delhi,India,10,26.571,28.13,77.27
+New Delhi,India,11,21.364,28.13,77.27
+New Delhi,India,12,16.321,28.13,77.27
+New York,United States,1,-2.584,40.99,-74.56
+New York,United States,2,-0.843,40.99,-74.56
+New York,United States,3,3.678,40.99,-74.56
+New York,United States,4,9.686,40.99,-74.56
+New York,United States,5,15.51,40.99,-74.56
+New York,United States,6,20.388,40.99,-74.56
+New York,United States,7,23.07,40.99,-74.56
+New York,United States,8,22.04,40.99,-74.56
+New York,United States,9,17.869,40.99,-74.56
+New York,United States,10,11.274,40.99,-74.56
+New York,United States,11,5.995,40.99,-74.56
+New York,United States,12,0.212,40.99,-74.56
+Paris,France,1,3.88,49.03,2.45
+Paris,France,2,4.306,49.03,2.45
+Paris,France,3,7.571,49.03,2.45
+Paris,France,4,10.148,49.03,2.45
+Paris,France,5,14.123,49.03,2.45
+Paris,France,6,17.043,49.03,2.45
+Paris,France,7,19.327,49.03,2.45
+Paris,France,8,19.133,49.03,2.45
+Paris,France,9,15.767,49.03,2.45
+Paris,France,10,11.703,49.03,2.45
+Paris,France,11,7.261,49.03,2.45
+Paris,France,12,4.43,49.03,2.45
+Peking,China,1,-3.72,39.38,116.53
+Peking,China,2,-0.016,39.38,116.53
+Peking,China,3,6.493,39.38,116.53
+Peking,China,4,14.607,39.38,116.53
+Peking,China,5,20.975,39.38,116.53
+Peking,China,6,24.995,39.38,116.53
+Peking,China,7,26.709,39.38,116.53
+Peking,China,8,25.585,39.38,116.53
+Peking,China,9,20.809,39.38,116.53
+Peking,China,10,13.645,39.38,116.53
+Peking,China,11,4.763,39.38,116.53
+Peking,China,12,-1.903,39.38,116.53
+Pune,India,1,21.043,18.48,74.37
+Pune,India,2,23.286,18.48,74.37
+Pune,India,3,26.815,18.48,74.37
+Pune,India,4,29.409,18.48,74.37
+Pune,India,5,30.465,18.48,74.37
+Pune,India,6,27.543,18.48,74.37
+Pune,India,7,25.212,18.48,74.37
+Pune,India,8,24.674,18.48,74.37
+Pune,India,9,25.227,18.48,74.37
+Pune,India,10,25.056,18.48,74.37
+Pune,India,11,23.121,18.48,74.37
+Pune,India,12,20.958,18.48,74.37
+Rangoon,Burma,1,24.534,16.87,95.44
+Rangoon,Burma,2,26.568,16.87,95.44
+Rangoon,Burma,3,29.039,16.87,95.44
+Rangoon,Burma,4,30.685,16.87,95.44
+Rangoon,Burma,5,29.475,16.87,95.44
+Rangoon,Burma,6,27.561,16.87,95.44
+Rangoon,Burma,7,26.938,16.87,95.44
+Rangoon,Burma,8,26.76,16.87,95.44
+Rangoon,Burma,9,27.192,16.87,95.44
+Rangoon,Burma,10,27.512,16.87,95.44
+Rangoon,Burma,11,26.898,16.87,95.44
+Rangoon,Burma,12,24.696,16.87,95.44
+Rio De Janeiro,Brazil,1,26.27,-23.31,-42.82
+Rio De Janeiro,Brazil,2,27.228,-23.31,-42.82
+Rio De Janeiro,Brazil,3,26.79,-23.31,-42.82
+Rio De Janeiro,Brazil,4,25.853,-23.31,-42.82
+Rio De Janeiro,Brazil,5,24.542,-23.31,-42.82
+Rio De Janeiro,Brazil,6,23.878,-23.31,-42.82
+Rio De Janeiro,Brazil,7,23.229,-23.31,-42.82
+Rio De Janeiro,Brazil,8,22.918,-23.31,-42.82
+Rio De Janeiro,Brazil,9,22.296,-23.31,-42.82
+Rio De Janeiro,Brazil,10,22.646,-23.31,-42.82
+Rio De Janeiro,Brazil,11,23.63,-23.31,-42.82
+Rio De Janeiro,Brazil,12,24.919,-23.31,-42.82
+Riyadh,Saudi Arabia,1,13.963,24.92,46.11
+Riyadh,Saudi Arabia,2,16.485,24.92,46.11
+Riyadh,Saudi Arabia,3,20.638,24.92,46.11
+Riyadh,Saudi Arabia,4,25.99,24.92,46.11
+Riyadh,Saudi Arabia,5,32.009,24.92,46.11
+Riyadh,Saudi Arabia,6,34.939,24.92,46.11
+Riyadh,Saudi Arabia,7,36.117,24.92,46.11
+Riyadh,Saudi Arabia,8,35.922,24.92,46.11
+Riyadh,Saudi Arabia,9,32.778,24.92,46.11
+Riyadh,Saudi Arabia,10,27.252,24.92,46.11
+Riyadh,Saudi Arabia,11,20.541,24.92,46.11
+Riyadh,Saudi Arabia,12,15.405,24.92,46.11
+Rome,Italy,1,3.738,42.59,13.09
+Rome,Italy,2,4.504,42.59,13.09
+Rome,Italy,3,7.818,42.59,13.09
+Rome,Italy,4,10.82,42.59,13.09
+Rome,Italy,5,15.74,42.59,13.09
+Rome,Italy,6,19.86,42.59,13.09
+Rome,Italy,7,22.945,42.59,13.09
+Rome,Italy,8,22.794,42.59,13.09
+Rome,Italy,9,18.358,42.59,13.09
+Rome,Italy,10,13.676,42.59,13.09
+Rome,Italy,11,8.456,42.59,13.09
+Rome,Italy,12,4.697,42.59,13.09
+Saint Petersburg,Russia,1,-5.662,60.27,29.19
+Saint Petersburg,Russia,2,-6.824,60.27,29.19
+Saint Petersburg,Russia,3,-2.707,60.27,29.19
+Saint Petersburg,Russia,4,3.123,60.27,29.19
+Saint Petersburg,Russia,5,9.436,60.27,29.19
+Saint Petersburg,Russia,6,13.989,60.27,29.19
+Saint Petersburg,Russia,7,17.353,60.27,29.19
+Saint Petersburg,Russia,8,15.865,60.27,29.19
+Saint Petersburg,Russia,9,11.136,60.27,29.19
+Saint Petersburg,Russia,10,6.1,60.27,29.19
+Saint Petersburg,Russia,11,0.889,60.27,29.19
+Saint Petersburg,Russia,12,-3.309,60.27,29.19
+Salvador,Brazil,1,26.676,-13.66,-38.81
+Salvador,Brazil,2,27.07,-13.66,-38.81
+Salvador,Brazil,3,27.081,-13.66,-38.81
+Salvador,Brazil,4,26.29,-13.66,-38.81
+Salvador,Brazil,5,25.468,-13.66,-38.81
+Salvador,Brazil,6,24.438,-13.66,-38.81
+Salvador,Brazil,7,23.756,-13.66,-38.81
+Salvador,Brazil,8,23.612,-13.66,-38.81
+Salvador,Brazil,9,24.105,-13.66,-38.81
+Salvador,Brazil,10,24.774,-13.66,-38.81
+Salvador,Brazil,11,25.523,-13.66,-38.81
+Salvador,Brazil,12,26.079,-13.66,-38.81
+Santiago,Chile,1,12.822,-32.95,-69.89
+Santiago,Chile,2,12.064,-32.95,-69.89
+Santiago,Chile,3,10.486,-32.95,-69.89
+Santiago,Chile,4,6.636,-32.95,-69.89
+Santiago,Chile,5,2.948,-32.95,-69.89
+Santiago,Chile,6,0.057,-32.95,-69.89
+Santiago,Chile,7,-0.683,-32.95,-69.89
+Santiago,Chile,8,1.087,-32.95,-69.89
+Santiago,Chile,9,3.134,-32.95,-69.89
+Santiago,Chile,10,6.112,-32.95,-69.89
+Santiago,Chile,11,9.279,-32.95,-69.89
+Santiago,Chile,12,11.786,-32.95,-69.89
+Santo Domingo,Dominican Republic,1,24.875,18.48,-69.3
+Santo Domingo,Dominican Republic,2,25.12,18.48,-69.3
+Santo Domingo,Dominican Republic,3,25.732,18.48,-69.3
+Santo Domingo,Dominican Republic,4,26.236,18.48,-69.3
+Santo Domingo,Dominican Republic,5,27.045,18.48,-69.3
+Santo Domingo,Dominican Republic,6,27.791,18.48,-69.3
+Santo Domingo,Dominican Republic,7,28.095,18.48,-69.3
+Santo Domingo,Dominican Republic,8,28.158,18.48,-69.3
+Santo Domingo,Dominican Republic,9,27.859,18.48,-69.3
+Santo Domingo,Dominican Republic,10,27.188,18.48,-69.3
+Santo Domingo,Dominican Republic,11,26.503,18.48,-69.3
+Santo Domingo,Dominican Republic,12,25.361,18.48,-69.3
+Seoul,South Korea,1,-3.315,37.78,126.1
+Seoul,South Korea,2,-0.531,37.78,126.1
+Seoul,South Korea,3,4.527,37.78,126.1
+Seoul,South Korea,4,10.825,37.78,126.1
+Seoul,South Korea,5,16.431,37.78,126.1
+Seoul,South Korea,6,20.788,37.78,126.1
+Seoul,South Korea,7,23.679,37.78,126.1
+Seoul,South Korea,8,24.789,37.78,126.1
+Seoul,South Korea,9,20.469,37.78,126.1
+Seoul,South Korea,10,13.981,37.78,126.1
+Seoul,South Korea,11,6.697,37.78,126.1
+Seoul,South Korea,12,-0.355,37.78,126.1
+Shanghai,China,1,3.858,31.35,120.63
+Shanghai,China,2,5.711,31.35,120.63
+Shanghai,China,3,9.84,31.35,120.63
+Shanghai,China,4,15.516,31.35,120.63
+Shanghai,China,5,20.962,31.35,120.63
+Shanghai,China,6,24.685,31.35,120.63
+Shanghai,China,7,28.743,31.35,120.63
+Shanghai,China,8,28.235,31.35,120.63
+Shanghai,China,9,24.033,31.35,120.63
+Shanghai,China,10,18.631,31.35,120.63
+Shanghai,China,11,12.818,31.35,120.63
+Shanghai,China,12,6.416,31.35,120.63
+Shenyang,China,1,-10.74,40.99,123.55
+Shenyang,China,2,-6.049,40.99,123.55
+Shenyang,China,3,1.14,40.99,123.55
+Shenyang,China,4,9.399,40.99,123.55
+Shenyang,China,5,16.099,40.99,123.55
+Shenyang,China,6,20.836,40.99,123.55
+Shenyang,China,7,23.903,40.99,123.55
+Shenyang,China,8,23.434,40.99,123.55
+Shenyang,China,9,17.501,40.99,123.55
+Shenyang,China,10,9.606,40.99,123.55
+Shenyang,China,11,0.413,40.99,123.55
+Shenyang,China,12,-7.62,40.99,123.55
+Singapore,Singapore,1,26.335,0.8,103.66
+Singapore,Singapore,2,26.951,0.8,103.66
+Singapore,Singapore,3,27.305,0.8,103.66
+Singapore,Singapore,4,27.488,0.8,103.66
+Singapore,Singapore,5,27.947,0.8,103.66
+Singapore,Singapore,6,27.921,0.8,103.66
+Singapore,Singapore,7,27.392,0.8,103.66
+Singapore,Singapore,8,27.303,0.8,103.66
+Singapore,Singapore,9,27.048,0.8,103.66
+Singapore,Singapore,10,26.948,0.8,103.66
+Singapore,Singapore,11,26.837,0.8,103.66
+Singapore,Singapore,12,26.38,0.8,103.66
+Surabaya,Indonesia,1,26.872,-7.23,112.7
+Surabaya,Indonesia,2,26.867,-7.23,112.7
+Surabaya,Indonesia,3,27.189,-7.23,112.7
+Surabaya,Indonesia,4,27.437,-7.23,112.7
+Surabaya,Indonesia,5,27.719,-7.23,112.7
+Surabaya,Indonesia,6,27.319,-7.23,112.7
+Surabaya,Indonesia,7,26.934,-7.23,112.7
+Surabaya,Indonesia,8,27.042,-7.23,112.7
+Surabaya,Indonesia,9,27.746,-7.23,112.7
+Surabaya,Indonesia,10,28.375,-7.23,112.7
+Surabaya,Indonesia,11,28.261,-7.23,112.7
+Surabaya,Indonesia,12,27.306,-7.23,112.7
+Surat,India,1,20.603,21.7,73.56
+Surat,India,2,23.304,21.7,73.56
+Surat,India,3,27.806,21.7,73.56
+Surat,India,4,30.915,21.7,73.56
+Surat,India,5,32.635,21.7,73.56
+Surat,India,6,31.067,21.7,73.56
+Surat,India,7,28.471,21.7,73.56
+Surat,India,8,27.583,21.7,73.56
+Surat,India,9,27.976,21.7,73.56
+Surat,India,10,27.32,21.7,73.56
+Surat,India,11,24.432,21.7,73.56
+Surat,India,12,21.342,21.7,73.56
+Sydney,Australia,1,20.103,-34.56,151.78
+Sydney,Australia,2,20.298,-34.56,151.78
+Sydney,Australia,3,19.782,-34.56,151.78
+Sydney,Australia,4,18.46,-34.56,151.78
+Sydney,Australia,5,17.093,-34.56,151.78
+Sydney,Australia,6,15.414,-34.56,151.78
+Sydney,Australia,7,14.583,-34.56,151.78
+Sydney,Australia,8,14.939,-34.56,151.78
+Sydney,Australia,9,16.067,-34.56,151.78
+Sydney,Australia,10,16.869,-34.56,151.78
+Sydney,Australia,11,17.89,-34.56,151.78
+Sydney,Australia,12,19.011,-34.56,151.78
+São Paulo,Brazil,1,23.111,-23.31,-46.31
+São Paulo,Brazil,2,23.513,-23.31,-46.31
+São Paulo,Brazil,3,22.751,-23.31,-46.31
+São Paulo,Brazil,4,21.168,-23.31,-46.31
+São Paulo,Brazil,5,18.497,-23.31,-46.31
+São Paulo,Brazil,6,17.161,-23.31,-46.31
+São Paulo,Brazil,7,16.935,-23.31,-46.31
+São Paulo,Brazil,8,18.184,-23.31,-46.31
+São Paulo,Brazil,9,19.135,-23.31,-46.31
+São Paulo,Brazil,10,20.533,-23.31,-46.31
+São Paulo,Brazil,11,21.714,-23.31,-46.31
+São Paulo,Brazil,12,22.503,-23.31,-46.31
+Taipei,Taiwan,1,17.101,24.92,122.36
+Taipei,Taiwan,2,17.439,24.92,122.36
+Taipei,Taiwan,3,18.903,24.92,122.36
+Taipei,Taiwan,4,21.39,24.92,122.36
+Taipei,Taiwan,5,24.223,24.92,122.36
+Taipei,Taiwan,6,26.667,24.92,122.36
+Taipei,Taiwan,7,28.42,24.92,122.36
+Taipei,Taiwan,8,28.288,24.92,122.36
+Taipei,Taiwan,9,26.82,24.92,122.36
+Taipei,Taiwan,10,24.381,24.92,122.36
+Taipei,Taiwan,11,21.97,24.92,122.36
+Taipei,Taiwan,12,18.684,24.92,122.36
+Taiyuan,China,1,-7.567,37.78,111.86
+Taiyuan,China,2,-3.061,37.78,111.86
+Taiyuan,China,3,3.411,37.78,111.86
+Taiyuan,China,4,11.048,37.78,111.86
+Taiyuan,China,5,17.113,37.78,111.86
+Taiyuan,China,6,21.094,37.78,111.86
+Taiyuan,China,7,22.776,37.78,111.86
+Taiyuan,China,8,20.863,37.78,111.86
+Taiyuan,China,9,15.599,37.78,111.86
+Taiyuan,China,10,8.915,37.78,111.86
+Taiyuan,China,11,1.024,37.78,111.86
+Taiyuan,China,12,-5.804,37.78,111.86
+Tangshan,China,1,-2.895,37.78,113.9
+Tangshan,China,2,0.68,37.78,113.9
+Tangshan,China,3,6.576,37.78,113.9
+Tangshan,China,4,14.14,37.78,113.9
+Tangshan,China,5,20.274,37.78,113.9
+Tangshan,China,6,24.312,37.78,113.9
+Tangshan,China,7,25.513,37.78,113.9
+Tangshan,China,8,23.925,37.78,113.9
+Tangshan,China,9,19.328,37.78,113.9
+Tangshan,China,10,13.083,37.78,113.9
+Tangshan,China,11,5.17,37.78,113.9
+Tangshan,China,12,-1.142,37.78,113.9
+Tianjin,China,1,-3.72,39.38,116.53
+Tianjin,China,2,-0.016,39.38,116.53
+Tianjin,China,3,6.493,39.38,116.53
+Tianjin,China,4,14.607,39.38,116.53
+Tianjin,China,5,20.975,39.38,116.53
+Tianjin,China,6,24.995,39.38,116.53
+Tianjin,China,7,26.709,39.38,116.53
+Tianjin,China,8,25.585,39.38,116.53
+Tianjin,China,9,20.809,39.38,116.53
+Tianjin,China,10,13.645,39.38,116.53
+Tianjin,China,11,4.763,39.38,116.53
+Tianjin,China,12,-1.903,39.38,116.53
+Tokyo,Japan,1,1.832,36.17,139.23
+Tokyo,Japan,2,2.74,36.17,139.23
+Tokyo,Japan,3,6.118,36.17,139.23
+Tokyo,Japan,4,11.67,36.17,139.23
+Tokyo,Japan,5,16.504,36.17,139.23
+Tokyo,Japan,6,20.114,36.17,139.23
+Tokyo,Japan,7,23.913,36.17,139.23
+Tokyo,Japan,8,25.273,36.17,139.23
+Tokyo,Japan,9,21.192,36.17,139.23
+Tokyo,Japan,10,14.968,36.17,139.23
+Tokyo,Japan,11,9.415,36.17,139.23
+Tokyo,Japan,12,4.288,36.17,139.23
+Toronto,Canada,1,-7.153,44.2,-80.5
+Toronto,Canada,2,-6.307,44.2,-80.5
+Toronto,Canada,3,-1.527,44.2,-80.5
+Toronto,Canada,4,5.691,44.2,-80.5
+Toronto,Canada,5,12.397,44.2,-80.5
+Toronto,Canada,6,17.445,44.2,-80.5
+Toronto,Canada,7,20.035,44.2,-80.5
+Toronto,Canada,8,19.13,44.2,-80.5
+Toronto,Canada,9,15.026,44.2,-80.5
+Toronto,Canada,10,8.391,44.2,-80.5
+Toronto,Canada,11,2.411,44.2,-80.5
+Toronto,Canada,12,-3.765,44.2,-80.5
+Umm Durman,Sudan,1,22.74,15.27,32.5
+Umm Durman,Sudan,2,24.931,15.27,32.5
+Umm Durman,Sudan,3,28.426,15.27,32.5
+Umm Durman,Sudan,4,31.996,15.27,32.5
+Umm Durman,Sudan,5,34.38,15.27,32.5
+Umm Durman,Sudan,6,34.237,15.27,32.5
+Umm Durman,Sudan,7,31.877,15.27,32.5
+Umm Durman,Sudan,8,30.843,15.27,32.5
+Umm Durman,Sudan,9,31.764,15.27,32.5
+Umm Durman,Sudan,10,31.971,15.27,32.5
+Umm Durman,Sudan,11,28.33,15.27,32.5
+Umm Durman,Sudan,12,24.251,15.27,32.5
+Wuhan,China,1,4.311,29.74,114.46
+Wuhan,China,2,6.86,29.74,114.46
+Wuhan,China,3,11.17,29.74,114.46
+Wuhan,China,4,17.417,29.74,114.46
+Wuhan,China,5,22.617,29.74,114.46
+Wuhan,China,6,26.095,29.74,114.46
+Wuhan,China,7,29.339,29.74,114.46
+Wuhan,China,8,28.64,29.74,114.46
+Wuhan,China,9,24.321,29.74,114.46
+Wuhan,China,10,18.509,29.74,114.46
+Wuhan,China,11,12.547,29.74,114.46
+Wuhan,China,12,6.603,29.74,114.46
+Xian,China,1,-1.745,34.56,108.97
+Xian,China,2,1.72,34.56,108.97
+Xian,China,3,6.884,34.56,108.97
+Xian,China,4,13.216,34.56,108.97
+Xian,China,5,18.447,34.56,108.97
+Xian,China,6,22.863,34.56,108.97
+Xian,China,7,24.69,34.56,108.97
+Xian,China,8,23.097,34.56,108.97
+Xian,China,9,18.034,34.56,108.97
+Xian,China,10,12.066,34.56,108.97
+Xian,China,11,5.589,34.56,108.97
+Xian,China,12,-0.246,34.56,108.97

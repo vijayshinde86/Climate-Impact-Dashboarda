@@ -1,0 +1,165 @@
+LIVE CLIMATE IMPACT DASHBOARD - DAX MEASURES
+=============================================
+Power BI me ye CSV tables import karo (powerbi_data folder se):
+  global_yearly, country_yearly, country_warming, major_city_yearly,
+  major_city_warming, india_state_warming, live_latest, live_log
+
+Naya measure: Home > New measure (ya table pe right click > New measure).
+Pehle ek khaali table "_Measures" bana lo (Enter Data) aur sab measures usi me rakho.
+
+
+---------------------------------------------
+1) GLOBAL KPIs  (table: global_yearly)
+---------------------------------------------
+
+Latest Year =
+MAX ( global_yearly[Year] )
+
+Avg Land Temp =
+AVERAGE ( global_yearly[LandAvgTemp] )
+
+Early Avg (1900-1909) =
+CALCULATE (
+    AVERAGE ( global_yearly[LandAvgTemp] ),
+    FILTER ( ALL ( global_yearly ), global_yearly[Year] >= 1900 && global_yearly[Year] <= 1909 )
+)
+
+Recent Avg (last 10 yrs) =
+VAR LastYear = CALCULATE ( MAX ( global_yearly[Year] ), ALL ( global_yearly ) )
+RETURN
+    CALCULATE (
+        AVERAGE ( global_yearly[LandAvgTemp] ),
+        FILTER ( ALL ( global_yearly ), global_yearly[Year] > LastYear - 10 )
+    )
+
+Temp Rise Since 1900s =
+[Recent Avg (last 10 yrs)] - [Early Avg (1900-1909)]
+
+Avg Anomaly =
+AVERAGE ( global_yearly[Anomaly] )
+
+Hottest Decade =
+VAR t =
+    ADDCOLUMNS (
+        VALUES ( global_yearly[Decade] ),
+        "@avg", CALCULATE ( AVERAGE ( global_yearly[LandAvgTemp] ) )
+    )
+RETURN
+    MAXX ( TOPN ( 1, t, [@avg], DESC ), global_yearly[Decade] )
+
+YoY Change =
+VAR ThisYear = MAX ( global_yearly[Year] )
+VAR ThisTemp = CALCULATE ( AVERAGE ( global_yearly[LandAvgTemp] ), global_yearly[Year] = ThisYear )
+VAR PrevTemp = CALCULATE ( AVERAGE ( global_yearly[LandAvgTemp] ), ALL ( global_yearly ), global_yearly[Year] = ThisYear - 1 )
+RETURN
+    ThisTemp - PrevTemp
+
+Moving Avg 5Y =
+VAR ThisYear = MAX ( global_yearly[Year] )
+RETURN
+    CALCULATE (
+        AVERAGE ( global_yearly[LandAvgTemp] ),
+        FILTER ( ALL ( global_yearly ), global_yearly[Year] <= ThisYear && global_yearly[Year] > ThisYear - 5 )
+    )
+
+
+---------------------------------------------
+2) COUNTRY / CITY / STATE  (map + ranking)
+---------------------------------------------
+
+Avg Warming (C) =
+AVERAGE ( country_warming[Warming] )
+
+Top Warming Country =
+VAR t =
+    ADDCOLUMNS (
+        VALUES ( country_warming[Country] ),
+        "@w", CALCULATE ( AVERAGE ( country_warming[Warming] ) )
+    )
+RETURN
+    MAXX ( TOPN ( 1, t, [@w], DESC ), country_warming[Country] )
+
+Countries Warming Above 1C =
+CALCULATE (
+    DISTINCTCOUNT ( country_warming[Country] ),
+    country_warming[Warming] > 1
+)
+
+Country Avg Temp =
+AVERAGE ( country_yearly[AvgTemp] )
+
+City Warming (C) =
+AVERAGE ( major_city_warming[Warming] )
+
+India State Warming (C) =
+AVERAGE ( india_state_warming[Warming] )
+
+
+---------------------------------------------
+3) LIVE SECTION  (table: live_latest)
+---------------------------------------------
+
+Live Temp =
+AVERAGE ( live_latest[CurrentTemp] )
+
+Live Anomaly vs Normal =
+AVERAGE ( live_latest[AnomalyVsNormal] )
+
+Live AQI =
+AVERAGE ( live_latest[USAQI] )
+
+Live Status =
+VAR a = [Live Anomaly vs Normal]
+RETURN
+    SWITCH (
+        TRUE (),
+        ISBLANK ( a ), "No normal data",
+        a >= 2, "Much hotter than normal",
+        a >= 0.5, "Warmer than normal",
+        a > -0.5, "Near normal",
+        "Cooler than normal"
+    )
+
+AQI Category =
+VAR aqi = [Live AQI]
+RETURN
+    SWITCH (
+        TRUE (),
+        ISBLANK ( aqi ), "No data",
+        aqi <= 50, "Good",
+        aqi <= 100, "Moderate",
+        aqi <= 150, "Unhealthy for sensitive groups",
+        aqi <= 200, "Unhealthy",
+        "Very unhealthy"
+    )
+
+Last Updated (UTC) =
+MAX ( live_latest[FetchedAtUTC] )
+
+
+---------------------------------------------
+4) SUGGESTED PAGE LAYOUT
+---------------------------------------------
+Page 1 - Global Trend
+  Cards : Avg Land Temp, Temp Rise Since 1900s, Hottest Decade, Latest Year
+  Line  : Year vs Avg Land Temp + Moving Avg 5Y (UpperBand/LowerBand se uncertainty area)
+  Column: Decade vs Avg Anomaly
+  Slicer: Year range
+
+Page 2 - Countries & Cities
+  Map   : country_warming[Country], size/color = Warming
+  Bar   : Top 10 countries by Avg Warming (Top N filter)
+  Map   : major_city_warming (Lat, Lon)
+  Slicer: Country
+
+Page 3 - India States
+  Bar   : India State Warming
+  Line  : india_state_yearly (State vs Year)
+
+Page 4 - Live Now
+  Cards : Live Temp, Live Anomaly vs Normal, Live AQI, Live Status, Last Updated
+  Map   : live_latest (Lat, Lon), color = AnomalyVsNormal
+  Line  : live_log (FetchedAtUTC vs CurrentTemp) per city
+
+Note: historical data 2013/2015 par khatam hota hai, isliye "Temp Rise Since 1900s"
+me "recent" ka matlab dataset ke aakhri 10 saal hai. Dashboard me ye note zaroor likho.
